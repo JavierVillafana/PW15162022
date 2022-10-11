@@ -1,0 +1,134 @@
+body{
+    font-size: 16px;
+    margin:  0px auto;
+    /* Recomendacion del cliente */
+    max-width: 1078px;
+    min-width: 1078px;
+}
+
+header input{
+    float: right;
+    margin-right: -210px;
+    margin-top: 15px;
+}
+
+#paint{
+    float: right;
+}
+
+#granthams{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+header nav ul li{
+    color: lightgrey;
+    border-bottom: 1px solid lightgrey;
+    display: inline-block;
+    font-size: 1.8em;
+    margin-right: 15px;
+
+    padding-bottom: 4px;
+    /* text-decoration: underline; */
+}
+
+#bgoffer{
+    position: relative;
+    left: -55px;
+    top: -406px;
+}
+
+#granthams{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+header nav{
+    /* text-align: center; */
+    margin-left: 210px;
+}
+
+#primerSeccion{
+    margin-top: 60px;
+    height: 318px;
+}
+
+#primerSeccion article{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#secc1art01{
+    width: 60%;
+}
+
+#secc1art02{
+    margin-left: 50px;
+    width: 30%;
+}
+
+#secc1art02 ul{
+    list-style: none;
+    margin-left: -40px;
+}
+
+#secc1art02 ul li::before{
+    color: #FF0099;
+    content: ". ";
+}
+
+#secc03art04{
+    margin-top: 40px;
+}
+
+#secc03art04 .button{
+    border: none;
+    font-weight: bold;
+    padding: 4px 10px;
+    margin-top: 2rem;
+    border-radius: 4px;
+    color: white;
+    background-color: #8bc500;
+}
+
+#segundaSeccion article{
+    margin-right: 190px;
+    text-align: right;
+}
+
+#terceraSeccion article{
+    display: inline-block;
+    vertical-align: top;
+    width: 23%;
+}
+
+#terceraSeccion article img{
+    vertical-align: middle;
+}
+
+.colorrosa{
+    color: #FF0099;
+}
+
+.colorAzul{
+    color: #4267b3;
+}
+
+.colorVerde{
+    color: #8bc500;
+}
+
+.letraGrande{
+    font-size: 3.5em;
+}
+
+
+.letraMediana{
+    font-size: 2em;
+}
+
+.nito{
+    font-weight: bold;
+}
+
+
